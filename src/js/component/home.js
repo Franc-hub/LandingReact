@@ -11,10 +11,10 @@ export function Home() {
 			<Nav />
 			<Jumbotron />
 			<div className="row">
-				<Card title="1" />
-				<Card title="2" />
-				<Card title="3" />
-				<Card title="4" />
+				<Card title="1" src="" text="" />
+				<Card title="2" src="" text="" />
+				<Card title="3" src="" text="" />
+				<Card title="4" src="" text="" />
 			</div>
 
 			<Footer />
