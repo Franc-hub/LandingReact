@@ -4,3 +4,7 @@ ports:
 tasks:
     - command: >
         npm i vercel -g
+
+vscode:
+  extensions:
+    - dsznajder.es7-react-js-snippets@3.1.1:debf39b2c860197045844163048ca4dd
